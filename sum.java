@@ -5,6 +5,6 @@ public class sum{
         System.out.println("------- Summation of two numbers -------")
         System.out.println("Value of a = "+a+" || b = "+b);
         int s=a+b;
-        System.out.println("Sum of these numbers is : "+s);
+        System.out.println("Sum of these numbers is = "+s);
     }
 }
